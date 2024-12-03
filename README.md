@@ -1,4 +1,5 @@
-# PuntGames Methods
+# PuntGames
+PuntGames is a collection of games freely downloadable, with no DRM, no sitelock, no restrictions, and no garbage. Submit your games by emailing puntgames AT proton DOT me.
 ## Website
 This method is the easiest. Go to [the website](https://puntgames.github.io) and click on a game you want to play. It will then immediately open.
 
